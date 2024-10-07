@@ -1,0 +1,14 @@
+מצ"ב 2 אפליקציות
+1) CLENT - סביבת VSCODE , נבנה ב REACT
+2) VSServer - נבנה ב Visual Studio, פרוייקט ASP NET MVC בסביבת DOTNET 8 CORE , שמכיל מספר API
+    עם גישה ל SQL SERVER
+3) ישנו קוד SQL בקובץ CreateSql.sql : הגדרת טבלאות חדשות, TYPES ו פרוצדורות
+  וכן פקודות להכנסת נתונים התחלתיים (קטגוריות+מוצרים)
+
+4) האפליקציה עובדת בצורה תקינה, מסך הכנסת הזמנה ניתן לראות ב SelectPage.png
+  עם ההזמנה  ניתן לראות ב OrderPage.png
+ מצב בסיס נתונים ניתן לראות ב SQLOrder.png
+
+לצערי לא הספקתי לעשות DEPLOY לאפליקציה לרשת
+
+https://github.com/michaelp1213/BitTest.git
